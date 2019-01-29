@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Gon",
+      "image": "https://cdn.myanimelist.net/images/characters/11/174517.jpg",
+      "clicked": "false"
+    },
+    {
+      "id": 2,
+      "name": "Killua",
+      "image": "https://cdn.myanimelist.net/images/characters/2/327920.jpg",
+      "clicked": "false"
+    },
+    {
+      "id": 3,
+      "name": "Kurapika",
+      "image": "https://cdn.myanimelist.net/images/characters/4/174563.jpg",
+      "clicked": "false"
+    },
+    {
+      "id": 4,
+      "name": "Leorio",
+      "image": "https://cdn.myanimelist.net/images/characters/11/174519.jpg",
+      "clicked": "false"
+    },
+    {
+      "id": 5,
+      "name": "Hisoka",
+      "image": "https://cdn.myanimelist.net/images/characters/3/174561.jpg",
+      "clicked": "false"
+    },
+    {
+      "id": 6,
+      "name": "Meruem",
+      "image": "https://cdn.myanimelist.net/images/characters/6/243861.jpg",
+      "clicked": "false"
+    },
+    {
+      "id": 7,
+      "name": "Ging",
+      "image": "https://cdn.myanimelist.net/images/characters/2/231795.jpg",
+      "clicked": "false"
+    },
+    {
+      "id": 8,
+      "name": "Netero",
+      "image": "https://cdn.myanimelist.net/images/characters/7/257355.jpg",
+      "clicked": "false"
+    },
+    {
+      "id": 9,
+      "name": "Silva",
+      "image": "https://cdn.myanimelist.net/images/characters/4/198609.jpg",
+      "clicked": "false"
+    },
+    {
+      "id": 10,
+      "name": "Pitou",
+      "image": "https://cdn.myanimelist.net/images/characters/12/253673.jpg",
+      "clicked": "false"
+    },
+    {
+      "id": 11,
+      "name": "Komugi",
+      "image": "https://cdn.myanimelist.net/images/characters/14/243865.jpg",
+      "clicked": "false"
+    },
+    {
+      "id": 12,
+      "name": "Zeno",
+      "image": "https://cdn.myanimelist.net/images/characters/5/193007.jpg",
+      "clicked": "false"
+    }
+  ]
+  
